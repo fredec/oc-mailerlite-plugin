@@ -1,0 +1,6 @@
+fields:
+    api_key:
+        label: 'MailerLite API key'
+        span: left
+        type: text
+        commentAbove: Get an API Key from https://app.mailerlite.com/integrations/api/

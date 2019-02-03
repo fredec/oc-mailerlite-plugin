@@ -1,0 +1,10 @@
+plugin:
+    name: 'diveramkt.mailerlite::lang.plugin.name'
+    description: 'diveramkt.mailerlite::lang.plugin.description'
+    author: DiveraMkt
+    icon: oc-icon-mail-forward
+    homepage: ''
+permissions:
+    manage_mailerliteintegration:
+        tab: 'diveramkt.mailerlite::lang.plugin.name'
+        label: 'diveramkt.mailerlite::lang.mailerlite.manage_mailerlite'
